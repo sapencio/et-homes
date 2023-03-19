@@ -1,0 +1,30 @@
+/* .login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/et-homes-5c2e0.appspot.com/o/images%2Ftwo.jpg?alt=media&token=c92340b6-3260-43b9-9be0-9d5ec47d77e6");
+    background-position: center;
+    background-size: cover;
+}
+
+.login__btn__container img {
+    width: 17px;
+}
+
+.login__btn__container {
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    background-color: #fff;
+}
+
+
+.login__btn__container button {
+    border: none;
+}
+ */
